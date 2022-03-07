@@ -1,0 +1,14 @@
+$primaryBtn: "blue";
+$textColor: "green";
+
+header {
+  background: lightblue;
+}
+
+header button {
+  background: $primaryBtn;
+}
+
+.contact button {
+  background: $primaryBtn;
+}
